@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[What is good design?]]></title>
-        <description><![CDATA[What is good design?]]></description>
+        <title><![CDATA[The principles of Good Design]]></title>
+        <description><![CDATA[The principles of Good Design]]></description>
         <link>http://good.design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 22:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2016 22:44:07 GMT</lastBuildDate>
         <atom:link href="http://good.design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Good design is environmentally-friendly]]></title>
@@ -18,7 +18,7 @@
             <description><![CDATA[<article><h1>Good design is thorough down to the last detail</h1><p>Nothing must be arbitrary or left to chance. Care and accuracy in the design process show respect towards the user.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/351218bb5e6795797794bdcd72be2c0c5f991c4c.jpg"></article>]]></description>
             <link>http://good.design/b2ce68d8-539b-40c6-9950-f3dc99568e39/index.html</link>
             <guid isPermaLink="false">b2ce68d8-539b-40c6-9950-f3dc99568e39</guid>
-            <pubDate>Sat, 20 Feb 2016 21:30:43 GMT</pubDate>
+            <pubDate>Sat, 20 Feb 2016 22:42:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Good design is long-lasting]]></title>
@@ -57,7 +57,7 @@
         </item>
         <item>
             <title><![CDATA[Good design makes a product useful]]></title>
-            <description><![CDATA[<article><h1>Good design makes a product useful</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be199bb6818d24208fb886b02a70c13519ada17b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Good design makes a product useful</h1><p>A product is bought to be used. It has to satisfy certain criteria, not only functional, but also psychological and aesthetic. Good design emphasizes the usefulness of a product whilst disregarding anything that could possibly detract from it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be199bb6818d24208fb886b02a70c13519ada17b.jpg"></article>]]></description>
             <link>http://good.design/5faaeeb4-6bef-44f5-8b02-cb98fe9cb5e8/index.html</link>
             <guid isPermaLink="false">5faaeeb4-6bef-44f5-8b02-cb98fe9cb5e8</guid>
             <pubDate>Sat, 20 Feb 2016 22:40:07 GMT</pubDate>
