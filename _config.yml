@@ -1,7 +1,7 @@
 name: Good Design
 favicon: null
-layout_spectrum: 0.2940846630372107
-typography_spectrum: 0.9928716828580946
+layout_spectrum: 0
+typography_spectrum: 0.54425
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
   brandStrength: 0.5
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
