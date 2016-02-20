@@ -2,13 +2,13 @@ name: Good Design
 favicon: null
 layout_spectrum: 0.11559
 typography_spectrum: 0.38531
-title: The principles of Good Design
+title: Good Design
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-74085065-1
   facebook: null
   twitter: null
 opengraph:
